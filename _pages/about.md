@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-kelime üzerine link eklemek [için]/https://emreynr.github.io)
+kelime üzerine link eklemek [buraya]/https://emreynr.github.io)
 
 A data-driven personal website
 ======
