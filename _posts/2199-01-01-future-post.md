@@ -9,4 +9,5 @@ tags:
 ---
 
 gnu gpl hakkında kısa kısa bilgiler, edit `config.yml` and set `future: false`. 
+[buraya bas](/images/bubblecikti.jpg)
 
