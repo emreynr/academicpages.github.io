@@ -12,3 +12,7 @@ gnu gpl hakkında kısa kısa bilgiler, edit `config.yml` and set `future: false
 
 <br/><img src='/images/profil.png'>"
 ---
+---
+bak kardesim napıyosun biliyo musun 33 liraya protein topzu alıp sabah lkksam bunu heryerine sürüyoysun sonra hulksun
+<br/><img src='/images/bubblegirdi.jpg'>"
+---
