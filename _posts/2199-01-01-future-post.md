@@ -8,6 +8,5 @@ tags:
   - category2
 ---
 
-gnu gpl hakkında kısa kısa bilgiler, edit `config.yml` and set `future: false`. 
-[buraya bas](/images/bubblecikti.jpg)
+gnu gpl hakkında kısa kısa bilgiler, edit `config.yml` and set `future: false`. (/images/bubblecikti.jpg)
 
