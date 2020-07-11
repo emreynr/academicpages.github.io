@@ -7,7 +7,8 @@ tags:
   - category1
   - category2
 ---
-
+--
 gnu gpl hakkında kısa kısa bilgiler, edit `config.yml` and set `future: false`. 
-(/images/bubblegirdi.jpg)
+
 <br/><img src='/images/profil.png'>"
+--
