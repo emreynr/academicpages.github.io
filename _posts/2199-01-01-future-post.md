@@ -29,9 +29,10 @@ Richard Stallman tarafından hazırlanan özgür bir şekilde dağıtım yapmam�
 
 GPL Lisansı Hakkında :
 ------
-Bu lisans, Özgür Yazılımlar üzerinde değişiklik yapma hakkı ve piyasaya sunma hakkı verir. Örnek verecek olursak siz Ubuntu dağıtımını aldınız kaynak kodları üzerinde oynamalar yaptınız ve adını da Fubuntu koydunuz, bu lisans size bu yazılım üzerinden para kazanma hakkı da tanır fakat size bir şartı vardır, paylaştığınız yazılımın kaynak kodlarını halka açık(public) şekilde, üzerinde değişiklik yapma hakkını tanımak zorundasınız. Yani sizin yazdığınız "GPL" lisansına sahip bir yazılımı bir başka kullanıcı onu alıp üzerinde değişiklik yaparak kendi yazılımını piyasaya sunabilir.<br/>
+Bu lisans, Özgür Yazılımlar üzerinde değişiklik yapma hakkı ve piyasaya sunma hakkı verir. Örnek verecek olursak siz Ubuntu dağıtımını aldınız kaynak kodları üzerinde oynamalar yaptınız ve adını da Fubuntu koydunuz, bu lisans size bu yazılım üzerinden para kazanma hakkı da tanır fakat size bir şartı vardır, paylaştığınız yazılımın kaynak kodlarını halka açık(public) şekilde, üzerinde değişiklik yapma hakkını tanımak zorundasınız. Yani sizin yazdığınız "GPL" lisansına sahip bir yazılımı bir başka kullanıcı onu alıp üzerinde değişiklik yaparak kendi yazılımını piyasaya sunabilir.
+
 `Not: Bir yazılımın üzerinde değişiklik yapılıp farklı kişiler tarafından piyasaya verilmesi art niyet olarak algılanmamalıdır. Bu yazılımı sizde yapabilirsiniz ve bu size teknik açıdan birçok bilgi katacaktır, unutmayın özgür yazılımın öncelikli amacı dünya çapında her insana ulaşabilmeyi sağlayabilmektir.`
-<br/><img src="/images/lisanskarsilastirma.JPG" width="520" height="420" align="center"><br/>
+<br/><img src="/images/lisanskarsilastirma.JPG" width="550" height="450"><br/>
 
 GPL Lisansına sahip bir dağıtım kullanmanın avantajı varmı ?
 ------
@@ -51,19 +52,18 @@ Gnu anlam olarak "GNU's Not Unix": "GNU Unix değildir" anlamına gelir. Unix gi
 "GNU" ve "GPL" arasındaki farklar nelerdir ?
 ------
 Ya da kısaca "GNU" ve "GPL" ne anlama gelir sorsunu sorarsak daha doğru olur. Eğer küçük bir araştırma yaparsanız bu iki kavramın çok karıştırıldığını, tam olarak anlaşmadığını göreceksiniz. R. Stallman bir röportajında bu konuyu uzunca ele almıştır.
-`Linki Aşağıda Bulabilirsiz` GNU/GPL yukarıda da bahsettiğimiz gibi GNU:"GNU's not Unix" anlamına gelmektedir yani bir yazılımdır, Unix'e benzemektedir ama tam anlamı ile  bir Unix dağıtımı diyemeyiz. GPL ise bir lisanslama çeşididir. Linux olarak kullandığımız terim aslında bir GNU/Linux olarak geçmektedir, kolaylık olması açısından Linux olarak kabul edilmiştir. "GPL" dediğimiz ilse lisans çeşididir. Son olarak GNU ve GPL birbirine çok uzak iki kavram değildir. fakat bunlar tam olarak aynı değildir çünkü birisi dağıtım(GNU) diğeri ise yazılımın hangi lisansı kullandığını gösteririr. Son olarak "Özgür Yazılım" : "Free Software" olarak çevirilebilir fakat burada yanlış anlaşılma yazılımın ücretsiz algılanmasıdır. Özgür Yazılımlar ücretsiz olmak zorunda değildir, yukarıda da bahsettiğimiz gibi Kaynak Kodları açık olan yazılımlar bir kişi tarafından tekrar geliştirilip kişiye göre bu yazılımı ücretli olarak piyasaya sürebilir. İngilizce çeviri yüzündn yanlış anlaşılma yaşanmaktadır.
+`Linki Aşağıda Bulabilirsiniz` GNU/GPL yukarıda da bahsettiğimiz gibi GNU:"GNU's not Unix" anlamına gelmektedir yani bir yazılımdır, Unix'e benzemektedir ama tam anlamı ile  bir Unix dağıtımı diyemeyiz. GPL ise bir lisanslama çeşididir. Linux olarak kullandığımız terim aslında bir GNU/Linux olarak geçmektedir, kolaylık olması açısından Linux olarak kabul edilmiştir. "GPL" dediğimiz ilse lisans çeşididir. Son olarak GNU ve GPL birbirine çok uzak iki kavram değildir. fakat bunlar tam olarak aynı değildir çünkü birisi dağıtım(GNU) diğeri ise yazılımın hangi lisansı kullandığını gösteririr. Son olarak "Özgür Yazılım" : "Free Software" olarak çevirilebilir fakat burada yanlış anlaşılma yazılımın ücretsiz algılanmasıdır. Özgür Yazılımlar ücretsiz olmak zorunda değildir, yukarıda da bahsettiğimiz gibi Kaynak Kodları açık olan yazılımlar bir kişi tarafından tekrar geliştirilip kişiye göre bu yazılımı ücretli olarak piyasaya sürebilir. İngilizce çeviri yüzündn yanlış anlaşılma yaşanmaktadır.
 
 
-<i>Hangi Yazılımı tercih etmeniz konusunda kara veremediyseniz aşağıdaki tablodan size uygun olanı seçebilirsiniz.</i> `birçok yazılım bulunmaktadır bknz:google--> gpl dağıtımları`<br/>
+<i>Hangi Yazılımı tercih etmeniz konusunda kara veremediyseniz aşağıdaki tablodan size uygun olanı seçebilirsiniz.</i> `birçok yazılım bulunmaktadır bknz:google--> gpl dağıtımları`
 
 <img src="/images/hangios.JPG" width="600" height="520" align="center">
+<br/>
+<br/>
 Richard Stallman Ropörtajı: https://www.gnu.org/gnu/byte-interview.tr.html
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 Yararlandığım Kaynaklar:
 
 [https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application]
@@ -73,5 +73,5 @@ Yararlandığım Kaynaklar:
 [https://linux.org.tr/linux-nedir/]
 
 
- Buraya kadar gelip okuduğunuz için teşekkür ederim.
+ Buraya kadar gelip okuduğunuz için teşekkür ederim, bir sonraki yazıda görüşmek üzere.
 
