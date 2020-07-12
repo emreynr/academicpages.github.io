@@ -1,6 +1,6 @@
 ---
 title: 'GNU/GPL Hakkında'
-date: 2199-01-04
+date: 23 Ekim 2019
 permalink: /2199/01/01/future-post/
 tags:
   - gnu
@@ -19,9 +19,9 @@ ya da dünya çapında çok büyük toplulukların destek verdiği yazılımlard
 ------
 Bu yazılımlara birçok dağıtım eklenebilir çünkü günümüzdde milyonlarca GNU/Linux dağıtımı bulunmaktadır ve %99'u ücretsizdir. Genel anlamda geliştirenler, Siber Güvenlik alanında ter dökenler, akademik araştırmalar yapan kişiler veya günlük kullanıcılar tarafından da sıkça kulanılmaktadır. Gün geçtikçe Özgür Yazılıma verilen destek artmaktadır.
 
-Genel Kamu Lisansı(GPL) Nedir ? ?
+Genel Kamu Lisansı(GPL) Nedir ? 
 ------
-<br/><img src="/images/gpllogo.JPG" width="200" height="160" align="center"><br/>
+<br/><img src="/images/gpllogo.JPG" width="240" height="200" align="center"><br/>
 
 GPL Lisansı :
 ------
@@ -31,7 +31,7 @@ GPL Lisansı Hakkında :
 ------
 Bu lisans, Özgür Yazılımlar üzerinde değişiklik yapma hakkı ve piyasaya sunma hakkı verir. Örnek verecek olursak siz Ubuntu dağıtımını aldınız kaynak kodları üzerinde oynamalar yaptınız ve adını da Fubuntu koydunuz, bu lisans size bu yazılım üzerinden para kazanma hakkı da tanır fakat size bir şartı vardır, paylaştığınız yazılımın kaynak kodlarını halka açık(public) şekilde, üzerinde değişiklik yapma hakkını tanımak zorundasınız. Yani sizin yazdığınız "GPL" lisansına sahip bir yazılımı bir başka kullanıcı onu alıp üzerinde değişiklik yaparak kendi yazılımını piyasaya sunabilir.<br/>
 `Not: Bir yazılımın üzerinde değişiklik yapılıp farklı kişiler tarafından piyasaya verilmesi art niyet olarak algılanmamalıdır. Bu yazılımı sizde yapabilirsiniz ve bu size teknik açıdan birçok bilgi katacaktır, unutmayın özgür yazılımın öncelikli amacı dünya çapında her insana ulaşabilmeyi sağlayabilmektir.`
-<br/><img src="/images/lisanskarsilastirma.JPG" width="320" height="270" align="center"><br/>
+<br/><img src="/images/lisanskarsilastirma.JPG" width="600" height="450" align="center"><br/>
 
 GPL Lisansına sahip bir dağıtım kullanmanın avantajı varmı ?
 ------
@@ -45,7 +45,7 @@ GPL Lisansına sahip bir dağıtım kullanmanın avantajı varmı ?
 GNU Nedir ?
 ======
 Gnu anlam olarak "GNU's Not Unix": "GNU Unix değildir" anlamına gelir. Unix gibidir fakat Unix değildir, Unix'i bir dağıtım olarak düşünebiliriz. <br/>
-<img src="/images/gnulogo.JPG" width="200" height="160" align="center"><br/>
+<img src="/images/gnulogo.JPG" width="250" height="210" align="center"><br/>
 
 "GNU" ve "GPL" arasındaki farklar nelerdir ?
 ------
@@ -55,7 +55,7 @@ Ya da kısaca "GNU" ve "GPL" ne anlama gelir sorsunu sorarsak daha doğru olur. 
 
 <i>Hangi Yazılımı tercih etmeniz konusunda kara veremediyseniz aşağıdaki tablodan size uygun olanı seçebilirsiniz.</i> `birçok yazılım bulunmaktadır bknz:google--> gpl dağıtımları`<br/>
 
-<img src="/images/hangios.JPG" width="500" height="420" align="center"><br/><br/><br/>
+<img src="/images/hangios.JPG" width="600" height="520" align="center"><br/><br/><br/>
 Richard Stallman Ropörtajı: https://www.gnu.org/gnu/byte-interview.tr.html
 
 
@@ -63,13 +63,12 @@ Richard Stallman Ropörtajı: https://www.gnu.org/gnu/byte-interview.tr.html
 
 Yararlandığım Kaynaklar:
 
-https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application
+[https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application]
 
-https://www.getgnu.org/gnulinux/gnulinux-ipuclari/necdet-yucel-ozgur-yazilim-ile-acik-kaynagin-ne-farki-var.html
+[https://www.getgnu.org/gnulinux/gnulinux-ipuclari/necdet-yucel-ozgur-yazilim-ile-acik-kaynagin-ne-farki-var.html]
   
-https://linux.org.tr/linux-nedir/
+[https://linux.org.tr/linux-nedir/]
 
 
-
-<i> Buraya kadar gelip okudupunuz için teşekkür ederim.</i>
+ Buraya kadar gelip okuduğunuz için teşekkür ederim.
 
