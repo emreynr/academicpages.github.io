@@ -11,7 +11,22 @@ gnu gpl hakkında yazımı okuyunuz
 
 
 eh be adamlar
-<br/><img src="/images/bubblegirdi.jpg" width="165" height="200">
+<br/><img src="/images/bubblegirdi.jpg" width="165" height="200"></<br>
 nabim nabim nabim fsdfsdfdsffsfdsfdsfsfsdfsdfsdfdsfsddf
+dfsfdsfsfsfsdfds
+fds
+f
+sdf
+dsf
+s
+dfdsfdsfdsfdsfsdfdsfsd
+f
+dsfds
+fsd
+fsd
+f
+
+
+
 
 
