@@ -3,8 +3,8 @@ title: 'GNU/GPL Hakkında'
 date: 23 Ekim 2019
 permalink: /2199/01/01/future-post/
 tags:
-  - gnu
-  - gpl
+  - GNU
+  - GPL
   - Lisans
 ---
 GNU/GPL Lisansı Nedir ? GNU/GPL'e Giriş Yapmadan Önce Özgür Yazılımın Ne Olduğunu Bilmemiz Gerekir. O halde Başlayalım..
@@ -31,7 +31,7 @@ GPL Lisansı Hakkında :
 ------
 Bu lisans, Özgür Yazılımlar üzerinde değişiklik yapma hakkı ve piyasaya sunma hakkı verir. Örnek verecek olursak siz Ubuntu dağıtımını aldınız kaynak kodları üzerinde oynamalar yaptınız ve adını da Fubuntu koydunuz, bu lisans size bu yazılım üzerinden para kazanma hakkı da tanır fakat size bir şartı vardır, paylaştığınız yazılımın kaynak kodlarını halka açık(public) şekilde, üzerinde değişiklik yapma hakkını tanımak zorundasınız. Yani sizin yazdığınız "GPL" lisansına sahip bir yazılımı bir başka kullanıcı onu alıp üzerinde değişiklik yaparak kendi yazılımını piyasaya sunabilir.<br/>
 `Not: Bir yazılımın üzerinde değişiklik yapılıp farklı kişiler tarafından piyasaya verilmesi art niyet olarak algılanmamalıdır. Bu yazılımı sizde yapabilirsiniz ve bu size teknik açıdan birçok bilgi katacaktır, unutmayın özgür yazılımın öncelikli amacı dünya çapında her insana ulaşabilmeyi sağlayabilmektir.`
-<br/><img src="/images/lisanskarsilastirma.JPG" width="600" height="450" align="center"><br/>
+<br/><img src="/images/lisanskarsilastirma.JPG" width="520" height="420" align="center"><br/>
 
 GPL Lisansına sahip bir dağıtım kullanmanın avantajı varmı ?
 ------
@@ -44,8 +44,8 @@ GPL Lisansına sahip bir dağıtım kullanmanın avantajı varmı ?
 
 GNU Nedir ?
 ======
-Gnu anlam olarak "GNU's Not Unix": "GNU Unix değildir" anlamına gelir. Unix gibidir fakat Unix değildir, Unix'i bir dağıtım olarak düşünebiliriz. <br/>
-<img src="/images/gnulogo.JPG" width="250" height="210" align="center"><br/>
+Gnu anlam olarak "GNU's Not Unix": "GNU Unix değildir" anlamına gelir. Unix gibidir fakat Unix değildir, Unix'i bir dağıtım olarak düşünebiliriz.
+<br/><img src="/images/gnulogo.JPG" width="250" height="210" align="center"><br/>
 
 "GNU" ve "GPL" arasındaki farklar nelerdir ?
 ------
