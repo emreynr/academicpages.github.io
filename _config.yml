@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Emre Yener"
 title_separator          : "-"
 name                     : &name "Emre"
-description              : &description "Teknoloji Meraklısı"
+description              : &description "Teknoloji Meraklısı.."
 url                      : https://emreynr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emreynr/emreynr.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Emre Yener"
   avatar           : "profil.png"
   bio              : "Araştırmaya Meraklı Yazılıma ilgisi ola sıradan biri.."
   location         : "İstanbul"
