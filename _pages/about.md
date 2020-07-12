@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Giriş
-------
+======
 Selam, bir ay öncesine kadar sıfırdan kendi sitemi yapmaya başlamıştım, planlarımı yaptım anasayfa.html blog.html gibi sayfalar oluşturup sonra bu sayfaları JS ile güzelleştirecektim, birkaç sayfa açıp içine yazılar yazıp olduğu gibi paylaşmak ne kadar güzel olurdu ayrı bir soru..
   Fazla değil 5-6 civarı .html uzantılı sayfa hazırladım bir tanesi anasayfam olacak diğerleri yazılarımı paylaştığım sayfalar olacak şekilde ayarladım, sıra gelmişti bu sayfaları CSS ile birazda olsa güzelleştirmeye, yazı boyutları resim düzenleme sayfa yapısı gibi özellikleri gayet güzel yapıyordum yaklaşık 2 hafta bu şekilde çalışmaya devam ettim, zaten domain hosting gibi hizmetler de kullancağım için ciddi bir özen gösteriyordum uzun zamandır da yazılarımı paylaşabileceğim bir site yapmayı planlıyordum..
 
