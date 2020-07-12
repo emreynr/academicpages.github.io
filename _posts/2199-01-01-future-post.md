@@ -7,9 +7,6 @@ tags:
   - GPL
   - LİSANS
 ---
---
-GNU GPL HKKIDNA KISA BİLGİLER
---
 
 
 --
