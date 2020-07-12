@@ -7,10 +7,12 @@ tags:
   - GPL
   - LİSANS
 ---
-
-
+--
+gnu gpl hakkında yazımı okuyunuz
+--
 --
 eh be adam
 <br/><img src="/images/bubblegirdi.jpg" width="50" height="50">
+nabim nabim nabim fsdfsdfdsffsfdsfdsfsfsdfsdfsdfdsfsddf
 --
 
