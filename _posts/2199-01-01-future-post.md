@@ -10,7 +10,7 @@ tags:
 gnu gpl hakkında yazımı okuyunuz
 
 -
-eh be adam
+eh be adamlar
 <br/><img src="/images/bubblegirdi.jpg" width="50" height="50">
 nabim nabim nabim fsdfsdfdsffsfdsfdsfsfsdfsdfsdfdsfsddf
 -
