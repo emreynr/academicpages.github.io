@@ -56,8 +56,10 @@ Ya da kısaca "GNU" ve "GPL" ne anlama gelir sorsunu sorarsak daha doğru olur. 
 
 <i>Hangi Yazılımı tercih etmeniz konusunda kara veremediyseniz aşağıdaki tablodan size uygun olanı seçebilirsiniz.</i> `birçok yazılım bulunmaktadır bknz:google--> gpl dağıtımları`<br/>
 
-<img src="/images/hangios.JPG" width="600" height="520" align="center"><br/><br/><br/><br/><br/>
+<img src="/images/hangios.JPG" width="600" height="520" align="center">
 Richard Stallman Ropörtajı: https://www.gnu.org/gnu/byte-interview.tr.html
+
+
 
 
 
