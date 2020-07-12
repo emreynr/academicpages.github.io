@@ -12,8 +12,8 @@ GNU GPL HKKIDNA KISA BİLGİLER
 --
 
 
--
+--
 bak kardesim napıyosun biliyo musun 33 liraya protein topzu alıp sabah lkksam bunu heryerine sürüyoysun sonra hulksun
 <br/><img src="/images/bubblegirdi.jpg" width="50" height="50">
--
+--
 
