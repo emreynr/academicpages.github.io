@@ -10,7 +10,7 @@ tags:
 
 
 --
-bak kardesim napıyosun biliyo musun 33 liraya protein topzu alıp sabah lkksam bunu heryerine sürüyoysun sonra hulksun
+eh be adam
 <br/><img src="/images/bubblegirdi.jpg" width="50" height="50">
 --
 
