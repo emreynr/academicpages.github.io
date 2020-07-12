@@ -7,24 +7,13 @@ tags:
   - GPL
   - LİSANS
 ---
-gnu gpl hakkında yazımı okuyunuz
+GNU/GPL Lisansı Nedir ? GNU/GPL'e Giriş Yapmadan Önce Özgür Yazılımın Ne Olduğunu Bilmemiz Gerekir. O halde Başlayalım..
 
 
-eh be adamlar
 <br/><img src="/images/bubblegirdi.jpg" width="165" height="200"><br/>
-nabim nabim nabim fsdfsdfdsffsfdsfdsfsfsdfsdfsdfdsfsddf
-dfsfdsfsfsfsdfds
-fds
-f
-sdf
-dsf
-s
-dfdsfdsfdsfdsfsdfdsfsd
-f
-dsfds
-fsd
-fsd
-f
+
+işet bu kadar
+
 
 
 
