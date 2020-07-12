@@ -21,7 +21,7 @@ Bu yazılımlara birçok dağıtım eklenebilir çünkü günümüzdde milyonlar
 
 Genel Kamu Lisansı Nedir ?
 ------
-<br/><img src="/images/gpllogo.jpg" width="140" height="100" align="center"><br/>
+<br/><img src="/images/gpllogo.JPG" width="140" height="100" align="center"><br/>
 
 GPL Lisansı Hakkında :
 ------
