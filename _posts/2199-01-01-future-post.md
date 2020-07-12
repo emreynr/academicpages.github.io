@@ -45,7 +45,8 @@ GPL Lisansına sahip bir dağıtım kullanmanın avantajı varmı ?
 GNU Nedir ?
 ======
 Gnu anlam olarak "GNU's Not Unix": "GNU Unix değildir" anlamına gelir. Unix gibidir fakat Unix değildir, Unix'i bir dağıtım olarak düşünebiliriz.
-</br><img src="/images/gnulogo.JPG" width="250" height="210" align="center"><br/>
+
+<img src="/images/gnulogo.JPG" width="250" height="210" align="center"><br/>
 
 "GNU" ve "GPL" arasındaki farklar nelerdir ?
 ------
@@ -55,7 +56,7 @@ Ya da kısaca "GNU" ve "GPL" ne anlama gelir sorsunu sorarsak daha doğru olur. 
 
 <i>Hangi Yazılımı tercih etmeniz konusunda kara veremediyseniz aşağıdaki tablodan size uygun olanı seçebilirsiniz.</i> `birçok yazılım bulunmaktadır bknz:google--> gpl dağıtımları`<br/>
 
-<img src="/images/hangios.JPG" width="600" height="520" align="center"><br/><br/><br/>
+<img src="/images/hangios.JPG" width="600" height="520" align="center"><br/><br/><br/><br/><br/>
 Richard Stallman Ropörtajı: https://www.gnu.org/gnu/byte-interview.tr.html
 
 
