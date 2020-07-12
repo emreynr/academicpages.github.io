@@ -10,9 +10,11 @@ tags:
 GNU/GPL Lisansı Nedir ? GNU/GPL'e Giriş Yapmadan Önce Özgür Yazılımın Ne Olduğunu Bilmemiz Gerekir. O halde Başlayalım..
 
 
-<br/><img src="/images/bubblegirdi.jpg" width="165" height="200"><br/>
+Özgür Yazılım Nedir ?
+------
+Özgür Yazılım, kaynak kodlarının büyük bir çoğunluğu halka açık(public), başka kişiler tarafından geliştirilmesine izin verilen, arkasında çok büyük şirketler
+ya da dünya çapında çok büyük toplulukların destek verdiği yazılımlardır.
 
-işet bu kadar
 
 
 
